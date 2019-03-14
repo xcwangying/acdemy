@@ -1,0 +1,68 @@
+html,body{
+    background-color: #f8f8f8;
+}
+.navbar{
+    background-color: #fff;
+}
+.article{
+    padding:1em;
+    border-radius: 4px;
+    border:1px solid #eee;
+    margin-bottom:0.5em;
+    background-color: #fff;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
+    /* box-shadow: 3px 3px 3px rgba(0, 0, 0, .5) */
+}
+.article-info{
+    font-size: 0.8em;
+    color:#aaa;
+    margin-bottom: 0.2em;
+}
+.article-detail{
+    margin-bottom: 0;
+}
+
+.courseList > div{
+    margin-bottom:0.5em;
+}
+footer{
+    text-align: center;
+    line-height: 80px;
+    border-top:1px solid #eee;
+}
+
+.articlecontainer{
+    margin-left:0;
+}
+.articlecontainer .catalogue{
+    background-color: #fff;
+    position: sticky;
+    top: 0;
+    padding-top:1em;
+    padding-bottom:1em;
+    overflow-y: auto;
+    
+}
+
+.catalogue .title{
+    text-align: center;
+}
+.catalogue .sec1{
+    padding-left: 0em;
+}
+.catalogue .sec2{
+    padding-left: 0.5em;
+}
+.catalogue .sec3{
+    padding-left: 1em;
+}
+.catalogue .sec4{
+    padding-left: 1.5em;
+}
+.catalogue .flex-column{
+    padding-left:1em;
+}
+.markdown-body{
+    background-color: #fff;
+}
+.mb1{margin-bottom: 1em;}
